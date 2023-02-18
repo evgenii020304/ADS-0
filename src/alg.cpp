@@ -9,3 +9,5 @@ int gcd(int a, int b) {
 		else
 			return gcd(a, b - a);
 }
+
+
